@@ -1,0 +1,2 @@
+quizbasicthreadimplementsrunnable.QuizBasicThreadImplementsRunnable
+quizbasicthreadimplementsrunnable.MyThread
